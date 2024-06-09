@@ -1,5 +1,5 @@
 # Promise - Async Programming
-## Netlify Deployment Link:
+## Vercel Deployment Link: https://countriesweatherdetails-pearl.vercel.app/
 # Promise :- 
    * It holds the result of async operation.
    * To overcome the problem of Callbackhell scenario promise is used.
@@ -19,22 +19,23 @@
    * .then and catch
    => To handle the promise object we are going to use then and catch
 
-### Using Rest Countries and OPen weather API :
+### Using Rest Countries and Open weather API :
 * All test cases are passed.
-* click the button and the country weather.
+* click the button and the show country weather.
+## Output:
+
+![Output](https://github.com/Balakrishnan-10/Promisr-Async-Programming-Day-02/assets/157093363/66e8856e-5fa2-4731-bd9e-7e1453f75475)
 
  ## Git Commands :
   
   ```git
-
   git init
   git add .
   git commit -m "commit message"
   git branch -M main
   git remote add origin "github URL"
   git push origin main
-  
-  ```
+   ```
 ## Front end :
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
